@@ -1,0 +1,4 @@
+## Available Endpoints
+
+ - /api/knowmyip
+    

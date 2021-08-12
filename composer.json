@@ -1,0 +1,17 @@
+{
+    "name": "softsuave/microservice",
+    "description": "a simple micro service that will retrun the ip address of the requester",
+    "authors": [
+        {
+            "name": "ajay kumar reddy",
+            "email": "ajay.reddy@softsuave.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+	"psr-4" : {
+		"IP\\": "src/",
+        "Lib\\": "lib/"
+	    }
+    }
+}
